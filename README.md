@@ -55,11 +55,6 @@ Key factors influencing sales volume include:
 ## Conclusion
 Our analysis provides a **data-backed strategy** for **pricing and inventory management** in the new **Mississauga branch**. By leveraging insights on **key sales influencers** and **resale pricing**, we can enhance **profitability and customer satisfaction**.
 
-![image](https://github.com/user-attachments/assets/347ddba5-ee71-4827-8b49-f231ed7b3a2f)
-
-![image](https://github.com/user-attachments/assets/38bbd0d4-7d67-4ee2-b1ac-f1ff9469ec46)
-
-![image](https://github.com/user-attachments/assets/d7e119f1-698e-42fa-a62a-7c5ee6daaa64)
 
 ![image](https://github.com/user-attachments/assets/9d2862cf-506c-4a02-b414-54772aafe4d6)
 
